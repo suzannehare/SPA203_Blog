@@ -1,4 +1,10 @@
-#Welcome to Honor's Blog!
+---
+layout: post
+title:  "Welcome to Honor's Blog!"
+---
 
-testing 1, 2, 3
+# Welcome
 
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
