@@ -1,6 +1,6 @@
 title: Honor test
 
-baseurl: "http://suzannehare.git.io"
-url: "http://suzannehare.git.io"
+#baseurl: "http://suzannehare.git.io"
+#url: "http://suzannehare.git.io"
 
 theme: jekyll-theme-minimal
