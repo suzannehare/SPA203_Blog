@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Finally got one person's blog working!
+title: "Finally got one person's blog working!"
 author: Honor
 date: 2020-01-15
 ---
