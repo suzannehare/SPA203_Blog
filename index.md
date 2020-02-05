@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Honor's blog can be found [here](https://suzannehare.github.io/testrepo.github.io/blog_Honor.md)
