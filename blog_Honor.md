@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Honorblog/:year/:month/:day/:title:output_ext
+permalink: pretty
 title: "Welcome to Honor's Blog!"
 ---
 
