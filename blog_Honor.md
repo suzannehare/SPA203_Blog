@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: pretty
+permalink: /HonorBlog/
 title: "Welcome to Honor's Blog!"
 ---
 
