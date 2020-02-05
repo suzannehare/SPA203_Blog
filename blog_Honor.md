@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Honor's Blog!"
 permalink: /Honorblog/:year/:month/:day/:title:output_ext
+title:  "Welcome to Honor's Blog!"
 ---
 Here you go
 
