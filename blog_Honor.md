@@ -3,6 +3,8 @@ layout: default
 title:  "Welcome to Honor's Blog!"
 permalink: /Honorblog/
 ---
+Here you go
+
 
 <ul>
   {% for post in site.posts %}
