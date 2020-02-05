@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 permalink: pretty
 title: "Welcome to Honor's Blog!"
 ---
