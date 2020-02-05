@@ -1,6 +1,9 @@
 title: Honor test
 
 posts_dir: _posts
+collections:
+  posts:
+    output: true
 
 #baseurl: "http://suzannehare.git.io"
 #url: "http://suzannehare.git.io"
