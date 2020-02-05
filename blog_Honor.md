@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Honor's Blog!"
 permalink: /Honorblog/
-author: Honor
 ---
 
-# Welcome
-
-Fuck.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
