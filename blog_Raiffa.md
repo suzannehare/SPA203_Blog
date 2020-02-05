@@ -1,8 +1,17 @@
 ---
 layout: default
 title: This is Raiffa's blog
-permalink: RaiffaBlog
+permalink: pretty
 ---
 
-Hello
+Blog
 
+{% for post in site.posts %}
+{{ post.title }}
+{% endfor %}
+
+here
+
+{% for post in site.posts %}
+{{ post.title }} {{ post.excerpt }}
+{% endfor %}
