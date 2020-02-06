@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Raiffa's"
-author: Honor
 Raiffa: Raiffa
 ---
 
-Testing for a different person.
+Testing for a not-Honor person.
 
