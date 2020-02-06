@@ -1,7 +1,7 @@
 ---
 layout: blog_onlyHonor
 permalink: /HonorBlog/
-title: "Welcome to Honor's Blog!"
+title: "Honor's Blog!"
 ---
 
-here
+Welcome to Honor's Blog!
