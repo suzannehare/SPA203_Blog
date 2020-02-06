@@ -1,8 +1,8 @@
 ---
 layout: default
+title: "Title"
 ---
-stupid test 8
+stupid test 9
 
 Honor's blog can be found [here](https://suzannehare.github.io/testrepo.github.io/HonorBlog/)
 
-Raiffa's blog can be found [here](https://suzannehare.github.io/testrepo.github.io/RaiffaBlog/)
