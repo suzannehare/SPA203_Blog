@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Copied"
+title:  "Raiffa's"
 author: Honor
 Raiffa: Raiffa
 ---
