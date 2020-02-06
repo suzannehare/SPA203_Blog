@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-stupid test 6
+stupid test 7
 
 Honor's blog can be found [here](https://suzannehare.github.io/testrepo.github.io/HonorBlog/)
 
