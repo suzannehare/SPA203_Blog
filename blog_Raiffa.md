@@ -1,17 +1,7 @@
 ---
-layout: default
-title: This is Raiffa's blog
-permalink: pretty
+layout: blog_onlyRaiffa
+permalink: /RaiffaBlog/
+title: "Welcome to Raiffa's Blog!"
 ---
 
-Blog
-
-{% for post in site.posts %}
-{{ post.title }}
-{% endfor %}
-
-here
-
-{% for post in site.posts %}
-{{ post.title }} {{ post.excerpt }}
-{% endfor %}
+This is for Raiffa.
