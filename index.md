@@ -41,7 +41,7 @@ day
 Antes dos dias, somos a la frontera a Brownsville, TX!
 
 
-<style> img {max-width: 75%; max-height: 100; left: 50%; }</style>
+<style> img {max-width: 75%; max-height: 100px; }</style>
 
 
 
