@@ -7,6 +7,12 @@ This blog is for Honor's Spring 203 Spanish 203 final project.
 
 ![](./images/me.jpeg)
 
+here
+
+<img src="images/me.jpg" alt="hi" class="inline"/>
+
+https://github.com/suzannehare/SPA203_Blog/blob/gh-pages/images/me.jpg
+
 hopefully the picture is above
 
 ## Day
