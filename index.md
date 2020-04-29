@@ -7,6 +7,8 @@ This blog is for Honor's Spring 203 Spanish 203 final project.
 
 ![](./images/me.jpeg)
 
+hopefully the picture is above
+
 ## Day
 
 ## Day
@@ -39,7 +41,7 @@ day
 Antes dos dias, somos a la frontera a Brownsville, TX!
 
 
-<style> img {max-width: 100%; max-height: 200px; left: 50%; }</style>
+<style> img {max-width: 75%; max-height: 100; left: 50%; }</style>
 
 
 
