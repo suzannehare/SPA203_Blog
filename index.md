@@ -5,9 +5,7 @@ title: "Welcome to Honor's Blog"
 
 This blog is for Honor's Spring 203 Spanish 203 final project.
 
-![](./images/me.jpeg)
-
-<img src="images/me.jpg" alt="me" width="200" style="horizontal-align:middle"/>
+<img src="images/me.jpg" alt="me" width="200" style="middle"/>
 
 ## Day
 
