@@ -5,12 +5,7 @@ title: "Welcome to Honor's Blog"
 
 This blog is for Honor's Spring 203 Spanish 203 final project.
 
-<img src="images/me.jpg" alt="me" width="400"/>
-
-second one
-test
-
-![me]({{ site.url }}/assets/me.jpg)
+<img src="images/me.jpg" alt="me" width="500" style="middle"/>
 
 ## Day
 
