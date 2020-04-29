@@ -9,3 +9,4 @@ collections:
 #url: "http://suzannehare.git.io"
 
 theme: jekyll-theme-leap-day
+markdown: kramdown
