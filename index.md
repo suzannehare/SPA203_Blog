@@ -9,7 +9,7 @@ This blog is for Honor's Spring 203 Spanish 203 final project.
 
 second one
 
-![useful image]({{ site.url }}/assets/me.jpg)
+![me]({{ site.url }}/assets/me.jpg)
 
 ## Day
 
