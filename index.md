@@ -24,7 +24,7 @@ En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y histo
 </div>
 <div class="row">
 <center>
-  <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="500"/>
+  <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="600"/>
 </center>
 </div>
 
@@ -37,7 +37,7 @@ Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y crán
 </div>
 <div class="row">
 <center>
-  <img src="images/skullandme.jpg" alt="skullandme.jpg" width="500"/>
+  <img src="images/skullandme.jpg" alt="skullandme.jpg" width="600"/>
 </center>
 </div>
 
