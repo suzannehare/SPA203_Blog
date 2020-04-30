@@ -52,13 +52,13 @@ first day in field
 Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la noche en plazas.
 <div class="row">
 <center>
-  <img src="images/chillinInTheSquare.jpg" alt="me" width="250"/>
-  <img src="images/chillinInTheSquare2.jpg" alt="me" width="250"/>
+  <img src="images/chillinInTheSquare.jpg" alt="me" width="300"/>
+  <img src="images/chillinInTheSquare2.jpg" alt="me" width="30"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/chillinInTheSquare3.jpg" alt="me" width="400"/>
+  <img src="images/chillinInTheSquare3.jpg" alt="me" width="600"/>
 </center>
 </div>
 
@@ -66,11 +66,11 @@ Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la
 hammock 
 Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una iglesia, una cancha, y una cenote. 
 <center>
-  <img src="images/telchequilloSquareAndChurch.jpg" alt="me" width="400"/>
+  <img src="images/telchequilloSquareAndChurch.jpg" alt="me" width="600"/>
   <figcaption>El zócalo</figcaption>
 </center>
 <center>
-  <img src="images/telchequilloCenote.jpg" alt="me" width="300"/>
+  <img src="images/telchequilloCenote.jpg" alt="me" width="400"/>
   <figcaption>Cenote</figcaption>
 </center>
 
