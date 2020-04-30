@@ -5,7 +5,11 @@ title: "Welcome to Honor's Blog"
 
 This blog is for Honor's Spring 203 Spanish 203 final project.
 
-<img src="images/me.jpg" alt="me" width="500" style="middle"/>
+<center>
+  <img src="images/me.jpg" alt="me" width="500" style="middle"/>
+  <figcaption>Esperamos por el autobus afuera Teotuhuacan</figcaption>
+</center>
+
 
 ## 10 de julio
 Home
