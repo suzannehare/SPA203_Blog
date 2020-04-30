@@ -7,39 +7,55 @@ This blog is for Honor's Spring 203 Spanish 203 final project.
 
 <img src="images/me.jpg" alt="me" width="500" style="middle"/>
 
-## Day
+## Day: July 10
+Home
 
-## Day
+## Day: July 7
+Palenque
 
-## Day
+## Day: July 6
+head
 
-## Day
+## Day: June 30
+Chichen Itza
 
-## Day
+## Day: June 18
+governor's palace
+merida museum
 
-## Day
+## Day: June 11
+celestun
 
-## Day
+## Day: June 10
+skull
+tarantula
+lizards
 
-## Day
+## Day: June 1
+at first site
+- ground
+- tracing path
 
-## Day 25
-day
+## Day 17: May 28
+Tecoh
+- night soccer
+- pyramid
 
-## Day 17
-day
+## Day 7: Mayo 22
+first day in field
 
-## Day 10
-day
+## Day 6: Mayo 21
+Merida chillin in square
 
-## Day 4
-day
+## Day 5
+- hammock 
+- telchequillo square
+- cenote
 
-## Day 2
+## Day 4: 14 Mayo, 2018
+Arrival in Telchequillo
+
 Antes dos dias, somos a la frontera a Brownsville, TX!
 
 
 <style> img {max-width: 75%;}</style>
-
-
-
