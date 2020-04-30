@@ -52,8 +52,8 @@ first day in field
 Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la noche en plazas.
 <div class="row">
 <center>
-  <img src="images/chillinInTheSquare.jpg" alt="me" width="300"/>
-  <img src="images/chillinInTheSquare2.jpg" alt="me" width="300"/>
+  <img src="images/chillinInTheSquare.jpg" alt="me" width="200"/>
+  <img src="images/chillinInTheSquare2.jpg" alt="me" width="200"/>
 </center>
 </div>
 <div class="row">
