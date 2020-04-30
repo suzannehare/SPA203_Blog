@@ -41,19 +41,37 @@ ground
 tracing path
 
 ## 28 de mayo
-Tecoh
-night soccer
-pyramid
+Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. Tiene una pirámide en su plaza.
+<div class="row">
+<center>
+  <img src="images/tecohPyramidMaybe.jpg" alt="me" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/nightsoccer.jpg" alt="me" width="600"/>
+</center>
+</div>
 
 ## 22 de mayo
-first day in field
+Hoy fue mi primera dia trabajando a la ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
+<div class="row">
+<center>
+  <img src="images/fillSite.jpg" alt="me" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/ticks.jpg" alt="me" width="500"/>
+</center>
+</div>
 
 ## 21 de mayo
 Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la noche en plazas.
 <div class="row">
 <center>
-  <img src="images/chillinInTheSquare.jpg" alt="me" width="300"/>
-  <img src="images/chillinInTheSquare2.jpg" alt="me" width="300"/>
+  <img src="images/chillinInTheSquare.jpg" alt="me" width="290"/>
+  <img src="images/chillinInTheSquare2.jpg" alt="me" width="290"/>
 </center>
 </div>
 <div class="row">
