@@ -20,7 +20,17 @@ governor's palace
 merida museum
 
 ## 15 de junio
-skull
+Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y cráneos de animales que cayeron ¿Y algún personas que cayeron o fueron sacrificados?
+<div class="row">
+<center>
+  <img src="images/skull.jpg" alt="skull.jpg" width="500"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/skullandme.jpg" alt="skullandme.jpg" width="500"/>
+</center>
+</div>
 
 ## 11 de junio
 Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
