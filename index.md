@@ -53,7 +53,7 @@ Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la
 <div class="row">
 <center>
   <img src="images/chillinInTheSquare.jpg" alt="me" width="300"/>
-  <img src="images/chillinInTheSquare2.jpg" alt="me" width="30"/>
+  <img src="images/chillinInTheSquare2.jpg" alt="me" width="300"/>
 </center>
 </div>
 <div class="row">
@@ -70,7 +70,7 @@ Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una
   <figcaption>El zócalo</figcaption>
 </center>
 <center>
-  <img src="images/telchequilloCenote.jpg" alt="me" width="400"/>
+  <img src="images/telchequilloCenote.jpg" alt="me" width="600"/>
   <figcaption>Cenote</figcaption>
 </center>
 
