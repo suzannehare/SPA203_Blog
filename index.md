@@ -19,11 +19,26 @@ Chichen Itza
 governor's palace
 merida museum
 
+## 15 de junio
+skull
+
 ## 11 de junio
 celestun
 
 ## 10 de junio
-skull
+En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos. 
+<div class="row">
+<center>
+  <img src="images/tarantula.jpg" alt="trailInJungle.jpg" width="500"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/lizards.JPG" alt="trailInJungle.jpg" width="250"/>
+  <img src="images/lizards2.JPG" alt="trailInJungle.jpg" width="250"/>
+</center>
+</div>
+
 tarantula
 lizards
 
@@ -49,7 +64,7 @@ Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. 
 </div>
 
 ## 22 de mayo
-Hoy fue mi primera dia trabajando a la ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
+Hoy fue mi primera dia trabajando en algún ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
 <div class="row">
 <center>
   <img src="images/fullSite.jpg" alt="fullSite.jpg" width="600"/>
