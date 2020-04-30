@@ -53,13 +53,26 @@ Merida chillin in square
 
 ## 15 de mayo
 hammock 
-telchequillo square
-cenote
+Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una iglesia, una cancha, y una cenote. 
+<center>
+  <img src="images/telchequilloSquareAndChurch.jpg" alt="me" width="400"/>
+  <figcaption>El zócalo</figcaption>
+</center>
+<center>
+  <img src="images/telchequilloCenote.jpg" alt="me" width="300"/>
+  <figcaption>Cenote</figcaption>
+</center>
 
 ## 14 de mayo
-Arrival in Telchequillo
-
-Antes dos dias, somos a la frontera a Brownsville, TX!
+Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 días en el carro. Telchaquillo es un pueblo pequeño en la Yucatan Peninsula. El pueblo es en un área pobre aproximadamente uno hora Sur del centro de la peninsula, Merida.
+<center>
+  <img src="images/gated.jpg" alt="me" width="400"/>
+  <figcaption>Afuera el laboratorio y mi nueva casa</figcaption>
+</center>
+<center>
+  <img src="images/gated.jpg" alt="me" width="200"/>
+  <figcaption>Mapa de Mexico</figcaption>
+</center>
 
 
 <style> img {max-width: 75%;}</style>
