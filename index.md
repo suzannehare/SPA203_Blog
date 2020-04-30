@@ -36,20 +36,23 @@ tarantula
 lizards
 
 ## 1 de junio
-at first site
-ground
-tracing path
+Las personas de la región conocen la tierra bien. llevaron nosotros mientras trazamos un antiguo camino.
+<div class="row">
+<center>
+  <img src="images/trailInJungle.jpg" alt="trailInJungle.jpg" width="600"/>
+</center>
+</div>
 
 ## 28 de mayo
 Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. Tiene una pirámide en su plaza.
 <div class="row">
 <center>
-  <img src="images/tecohPyramidMaybe.jpg" alt="me" width="600"/>
+  <img src="images/tecohPyramidMaybe.JPG" alt="tecohPyramidMaybe.JPG" width="600"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/nightsoccer.jpg" alt="me" width="600"/>
+  <img src="images/nightsoccer.jpg" alt="nightsoccer" width="600"/>
 </center>
 </div>
 
@@ -57,12 +60,12 @@ Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. 
 Hoy fue mi primera dia trabajando a la ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
 <div class="row">
 <center>
-  <img src="images/fillSite.jpg" alt="me" width="600"/>
+  <img src="images/fullSite.jpg" alt="fullSite.jpg" width="600"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/ticks.jpg" alt="me" width="500"/>
+  <img src="images/ticks.JPG" alt="ticks.JPG" width="500"/>
 </center>
 </div>
 
