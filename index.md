@@ -52,8 +52,8 @@ first day in field
 Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la noche en plazas.
 <div class="row">
 <center>
-  <img src="images/chillinInTheSquare.jpg" alt="me" width="200"/>
-  <img src="images/chillinInTheSquare2.jpg" alt="me" width="200"/>
+  <img src="images/chillinInTheSquare.jpg" alt="me" width="250"/>
+  <img src="images/chillinInTheSquare2.jpg" alt="me" width="250"/>
 </center>
 </div>
 <div class="row">
@@ -86,4 +86,4 @@ Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 
 </center>
 
 
-<style> img {max-width: 75%;}</style>
+<style> img {max-width: 95%;}</style>
