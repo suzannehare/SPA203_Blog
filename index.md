@@ -23,24 +23,31 @@ merida museum
 skull
 
 ## 11 de junio
-celestun
+Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
+<div class="row">
+<center>
+  <img src="images/celestunboat.jpg" alt="celestunboat.jpg" width="500"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="500"/>
+</center>
+</div>
 
 ## 10 de junio
-En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos. 
+En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos y palomillas. 
 <div class="row">
 <center>
-  <img src="images/tarantula.jpg" alt="trailInJungle.jpg" width="500"/>
+  <img src="images/tarantula.jpg" alt="tarantula.jpg" width="500"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/lizards.JPG" alt="trailInJungle.jpg" width="250"/>
-  <img src="images/lizards2.JPG" alt="trailInJungle.jpg" width="250"/>
+  <img src="images/lizards.JPG" alt="lizards.jpg" width="300"/>
+  <img src="images/lizards2.JPG" alt="lizards2.jpg" width="250"/>
 </center>
 </div>
-
-tarantula
-lizards
 
 ## 1 de junio
 Las personas de la región conocen la tierra bien. llevaron nosotros mientras trazamos un antiguo camino.
@@ -103,7 +110,7 @@ Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una
 </center>
 
 ## 14 de mayo
-Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 días en el carro. Telchaquillo es un pueblo pequeño en la Yucatan Peninsula. El pueblo es en un área pobre aproximadamente uno hora Sur del centro de la peninsula, Merida.
+Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 días en el carro. Telchaquillo es un pueblo pequeño en la Yucatan Peninsula. El pueblo es en un área pobre aproximadamente uno hora sur del centro de la peninsula, Merida.
 <center>
   <img src="images/gated.jpg" alt="me" width="600"/>
   <figcaption>Afuera el laboratorio y mi nueva casa</figcaption>
