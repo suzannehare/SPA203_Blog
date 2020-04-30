@@ -52,7 +52,7 @@ Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. 
 </div>
 <div class="row">
 <center>
-  <img src="images/nightsoccer.jpg" alt="nightsoccer" width="600"/>
+  <img src="images/nightsoccer.JPG" alt="nightsoccer" width="600"/>
 </center>
 </div>
 
