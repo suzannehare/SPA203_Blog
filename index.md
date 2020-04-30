@@ -16,8 +16,17 @@ head
 Chichen Itza
 
 ## 18 de junio
-governor's palace
-merida museum
+En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y historia del región.
+<div class="row">
+<center>
+  <img src="images/governorpalace.jpg" alt="governorpalace.jpg" width="500"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="500"/>
+</center>
+</div>
 
 ## 15 de junio
 Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y cráneos de animales que cayeron ¿Y algún personas que cayeron o fueron sacrificados?
@@ -36,12 +45,12 @@ Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y crán
 Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
 <div class="row">
 <center>
-  <img src="images/celestunboat.jpg" alt="celestunboat.jpg" width="500"/>
+  <img src="images/celestunboat.jpg" alt="celestunboat.jpg" width="600"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="500"/>
+  <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="600"/>
 </center>
 </div>
 
@@ -108,8 +117,7 @@ Una ciudad como Mérida tengo muchos plazas. Muchas personas pasan la tarde y la
 </div>
 
 ## 15 de mayo
-hammock 
-Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una iglesia, una cancha, y una cenote. 
+Como cada ciudad en México, Telchaquillo tiene un zócalo. En su zocala, hay una iglesia, una cancha, y una cenote.
 <center>
   <img src="images/telchequilloSquareAndChurch.jpg" alt="me" width="600"/>
   <figcaption>El zócalo</figcaption>
@@ -120,7 +128,7 @@ Como cada ciudad en Mexico, Telchaquillo tengo un zócalo. En su zocala, hay una
 </center>
 
 ## 14 de mayo
-Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 días en el carro. Telchaquillo es un pueblo pequeño en la Yucatan Peninsula. El pueblo es en un área pobre aproximadamente uno hora sur del centro de la peninsula, Merida.
+Hoy es mi cumpleaños! También, mi padre y yo llegamos en Telchaquillo antes 4 días en el carro. Telchaquillo es un pueblo pequeño en la Yucatan Peninsula. El pueblo es en un área pobre aproximadamente uno hora sur del centro de la peninsula, Mérida.
 <center>
   <img src="images/gated.jpg" alt="me" width="600"/>
   <figcaption>Afuera el laboratorio y mi nueva casa</figcaption>
