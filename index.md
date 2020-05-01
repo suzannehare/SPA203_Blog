@@ -1,7 +1,15 @@
 ---
 layout: default
-title: "Welcome to Honor's Blog"
+title: "El Blog de Honor"
 ---
+# ¡Bienvenidos!
+En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo por casi dos meses. Lea el blog a aprender sobre mi verano.
+<div class="row">
+<center>
+  <img src="images/camino.jpg" alt="camino.jpg" width="600"/>
+</center>
+</div>
+<hr>
 
 ## 7 de julio
 Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
