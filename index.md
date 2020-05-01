@@ -9,7 +9,6 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
   <img src="images/camino.jpg" alt="camino.jpg" width="600"/>
 </center>
 </div>
-</div>
   
 <br>
 <hr style="height:30px">
