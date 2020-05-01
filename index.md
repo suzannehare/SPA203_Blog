@@ -7,12 +7,12 @@ title: "Welcome to Honor's Blog"
 Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
 <div class="row">
 <center>
-  <img src="images/palenque.jpg" alt="palenque.jpg" width="600"/>
+  <img src="images/palenque.JPG" alt="palenque.JPG" width="600"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/laventahead.jpg" alt="laventahead.jpg" width="500"/>
+  <img src="images/laventahead.JPG" alt="laventahead.JPG" width="500"/>
 </center>
 </div>
 
@@ -26,12 +26,12 @@ Mi familia vinieron y fueron a Chichen Itza.
 </div>
 <div class="row">
 <center>
-  <img src="images/chichenitza2.jpg" alt="chichenitza2.jpg" width="600"/>
+  <img src="images/chichenitza2.JPG" alt="chichenitza2.JPG" width="600"/>
 </center>
 </div>
 <div class="row">
 <center>
-  <img src="images/chichen3.jpg" alt="chichen3.jpg" width="600"/>
+  <img src="images/chichen3.JPG" alt="chichen3.JPG" width="600"/>
 </center>
 </div>
 
