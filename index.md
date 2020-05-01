@@ -18,7 +18,7 @@ Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino
 
 
 ## 30 de junio
-Mi familia vinieron y fueron a Chichen Itza.
+Mi familia vinieron y fuimos a Chichen Itza.
 <div class="row">
 <center>
   <img src="images/chichenitza.jpg" alt="chichenitza.jpg" width="600"/>
