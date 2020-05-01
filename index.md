@@ -31,7 +31,7 @@ Mi familia vinieron y fuimos a Chichen Itza.
 </div>
 <div class="row">
 <center>
-  <img src="images/ballgame.jpg" alt="ballgame.jpg" width="600"/>
+  <img src="images/chichenballcourt.jpg" alt="chichenballcourt.jpg" width="600"/>
 </center>
 </div>
 <div class="row">
