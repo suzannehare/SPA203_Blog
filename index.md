@@ -2,8 +2,6 @@
 layout: default
 title: "El Blog de Honor"
 ---
-<div>
-  
 # ¡Bienvenidos!
 En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo por casi dos meses. Lea el blog a aprender sobre mi verano.
 <div class="row">
@@ -16,8 +14,6 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
 <br>
 <hr style="height:30px">
 <br>
-
-<div>
   
 ## 7 de julio
   Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
@@ -31,9 +27,6 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/laventahead.JPG" alt="laventahead.JPG" width="500"/>
   </center>
   </div>
-</div>
-
-<div>
   
 ## 30 de junio
   Mi familia vinieron y fuimos a Chichen Itza.
@@ -57,10 +50,8 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/chichen3.JPG" alt="chichen3.JPG" width="600"/>
   </center>
   </div>
-</div>
 
-<div>
-  
+
 ## 18 de junio
   En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y historia del región.
   <div class="row">
@@ -73,9 +64,7 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="600"/>
   </center>
   </div>
-</div>
- 
-<div>
+
   
 ## 15 de junio
   Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y cráneos de animales que cayeron ¿Y algún personas que cayeron o fueron sacrificados?
@@ -89,10 +78,7 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/skullandme.jpg" alt="skullandme.jpg" width="600"/>
   </center>
   </div>
-</div>
 
-<div>
-  
 ## 11 de junio
   Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
   <div class="row">
@@ -105,10 +91,7 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="600"/>
   </center>
   </div>
-</div>
 
-<div>
-  
 ## 10 de junio
   En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos y palomillas. 
   <div class="row">
@@ -122,9 +105,7 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/lizards2.JPG" alt="lizards2.jpg" width="250"/>
   </center>
   </div>
-</div>
-  
-<div>
+
   
 ## 1 de junio
   Las personas de la región conocen la tierra bien. llevaron nosotros mientras trazamos un antiguo camino.
@@ -133,7 +114,6 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
     <img src="images/trailInJungle.jpg" alt="trailInJungle.jpg" width="600"/>
   </center>
   </div>
-</div>
 
 ## 28 de mayo
 Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. Tiene una pirámide en su plaza.
@@ -150,6 +130,16 @@ Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. 
 
 ## 24 de mayo
 Mayapán es un sitios arqueológicos menos que diez minutos de Telchaquillo. Mi padre trabajó ahí hace muchos años. Ahora, trabaja en ruinas oculto debajo la selva.
+<div class="row">
+<center>
+  <img src="images/mayapan.JPG" alt="mayapan.JPG" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/mayapan2.JPG" alt="mayapan2.JPG" width="600"/>
+</center>
+</div>
 
 ## 22 de mayo
 Hoy fue mi primera dia trabajando en algún ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
