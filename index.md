@@ -2,6 +2,8 @@
 layout: default
 title: "El Blog de Honor"
 ---
+<div>
+  
 # ¡Bienvenidos!
 En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo por casi dos meses. Lea el blog a aprender sobre mi verano.
 <div class="row">
@@ -9,107 +11,128 @@ En 2018, fui a México ayudar mi padre, un arqueólogo. Vivimos en Telchaquillo 
   <img src="images/camino.jpg" alt="camino.jpg" width="600"/>
 </center>
 </div>
-
+</div>
+  
 <br>
 <hr style="height:30px">
 <br>
 
+<div>
+  
 ## 7 de julio
-Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
-<div class="row">
-<center>
-  <img src="images/palenque.JPG" alt="palenque.JPG" width="600"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/laventahead.JPG" alt="laventahead.JPG" width="500"/>
-</center>
+  Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
+  <div class="row">
+  <center>
+    <img src="images/palenque.JPG" alt="palenque.JPG" width="600"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/laventahead.JPG" alt="laventahead.JPG" width="500"/>
+  </center>
+  </div>
 </div>
 
-
+<div>
+  
 ## 30 de junio
-Mi familia vinieron y fuimos a Chichen Itza.
-<div class="row">
-<center>
-  <img src="images/chichenitza.jpg" alt="chichenitza.jpg" width="600"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/chichenitza2.JPG" alt="chichenitza2.JPG" width="600"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/chichenballcourt.jpg" alt="chichenballcourt.jpg" width="600"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/chichen3.JPG" alt="chichen3.JPG" width="600"/>
-</center>
+  Mi familia vinieron y fuimos a Chichen Itza.
+  <div class="row">
+  <center>
+    <img src="images/chichenitza.jpg" alt="chichenitza.jpg" width="600"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/chichenitza2.JPG" alt="chichenitza2.JPG" width="600"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/chichenballcourt.jpg" alt="chichenballcourt.jpg" width="600"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/chichen3.JPG" alt="chichen3.JPG" width="600"/>
+  </center>
+  </div>
 </div>
 
+<div>
+  
 ## 18 de junio
-En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y historia del región.
-<div class="row">
-<center>
-  <img src="images/governorpalace.jpg" alt="governorpalace.jpg" width="500"/>
-</center>
+  En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y historia del región.
+  <div class="row">
+  <center>
+    <img src="images/governorpalace.jpg" alt="governorpalace.jpg" width="500"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="600"/>
+  </center>
+  </div>
 </div>
-<div class="row">
-<center>
-  <img src="images/governorpalaceartwork2.jpg" alt="governorpalaceartwork2.jpg" width="600"/>
-</center>
-</div>
-
+ 
+<div>
+  
 ## 15 de junio
-Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y cráneos de animales que cayeron ¿Y algún personas que cayeron o fueron sacrificados?
-<div class="row">
-<center>
-  <img src="images/skull.jpg" alt="skull.jpg" width="500"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/skullandme.jpg" alt="skullandme.jpg" width="600"/>
-</center>
+  Otros arqueólogos fueron buceo en un cenote y regresaron con esqueletos y cráneos de animales que cayeron ¿Y algún personas que cayeron o fueron sacrificados?
+  <div class="row">
+  <center>
+    <img src="images/skull.jpg" alt="skull.jpg" width="500"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/skullandme.jpg" alt="skullandme.jpg" width="600"/>
+  </center>
+  </div>
 </div>
 
+<div>
+  
 ## 11 de junio
-Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
-<div class="row">
-<center>
-  <img src="images/celestunboat.jpg" alt="celestunboat.jpg" width="600"/>
-</center>
-</div>
-<div class="row">
-<center>
-  <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="600"/>
-</center>
+  Por un descanso, fuimos a Celestún en la oeste costa de la península. Hay un mangle hermoso ahí y los vimos en una vuelta barco.
+  <div class="row">
+  <center>
+    <img src="images/celestunboat.jpg" alt="celestunboat.jpg" width="600"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/celestunboat2.JPG" alt="celestunboat2.JPG" width="600"/>
+  </center>
+  </div>
 </div>
 
+<div>
+  
 ## 10 de junio
-En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos y palomillas. 
-<div class="row">
-<center>
-  <img src="images/tarantula.jpg" alt="tarantula.jpg" width="500"/>
-</center>
+  En Telchaquillo, las casas no están cerrados a naturaleza. Vi una tarántula muerta y muchos gecos y palomillas. 
+  <div class="row">
+  <center>
+    <img src="images/tarantula.jpg" alt="tarantula.jpg" width="500"/>
+  </center>
+  </div>
+  <div class="row">
+  <center>
+    <img src="images/lizards.JPG" alt="lizards.jpg" width="300"/>
+    <img src="images/lizards2.JPG" alt="lizards2.jpg" width="250"/>
+  </center>
+  </div>
 </div>
-<div class="row">
-<center>
-  <img src="images/lizards.JPG" alt="lizards.jpg" width="300"/>
-  <img src="images/lizards2.JPG" alt="lizards2.jpg" width="250"/>
-</center>
-</div>
-
+  
+<div>
+  
 ## 1 de junio
-Las personas de la región conocen la tierra bien. llevaron nosotros mientras trazamos un antiguo camino.
-<div class="row">
-<center>
-  <img src="images/trailInJungle.jpg" alt="trailInJungle.jpg" width="600"/>
-</center>
+  Las personas de la región conocen la tierra bien. llevaron nosotros mientras trazamos un antiguo camino.
+  <div class="row">
+  <center>
+    <img src="images/trailInJungle.jpg" alt="trailInJungle.jpg" width="600"/>
+  </center>
+  </div>
 </div>
 
 ## 28 de mayo
