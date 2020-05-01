@@ -3,17 +3,37 @@ layout: default
 title: "Welcome to Honor's Blog"
 ---
 
-## 10 de julio
-Home
-
 ## 7 de julio
-Palenque
+Mi familia salieron por avión pero mi padre y yo debimos conducir. En el camino fuimos Palenque y La Venta.
+<div class="row">
+<center>
+  <img src="images/palenque.jpg" alt="palenque.jpg" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/laventahead.jpg" alt="laventahead.jpg" width="500"/>
+</center>
+</div>
 
-## 6 de julio
-head
 
 ## 30 de junio
-Chichen Itza
+Mi familia vinieron y fueron a Chichen Itza.
+<div class="row">
+<center>
+  <img src="images/chichenitza.jpg" alt="chichenitza.jpg" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/chichenitza2.jpg" alt="chichenitza2.jpg" width="600"/>
+</center>
+</div>
+<div class="row">
+<center>
+  <img src="images/chichen3.jpg" alt="chichen3.jpg" width="600"/>
+</center>
+</div>
 
 ## 18 de junio
 En Mérida, el palacio de gobernador es ahora un museo. Tiene mucho arte y historia del región.
@@ -88,6 +108,9 @@ Tecoh son un pueblo más grande que Telchaquillo pero más pequeño que Merida. 
   <img src="images/nightsoccer.JPG" alt="nightsoccer" width="600"/>
 </center>
 </div>
+
+## 24 de mayo
+Mayapán es un sitios arqueológicos menos que diez minutos de Telchaquillo. Mi padre trabajó ahí hace muchos años. Ahora, trabaja en ruinas oculto debajo la selva.
 
 ## 22 de mayo
 Hoy fue mi primera dia trabajando en algún ruinas en la selva. Ruinas son en todas partes debajo tierra y plantas.
